@@ -1,5 +1,9 @@
 # FitnessTracker
 
+<p align="center">
+  <a href="http://angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.png" width="250px" height="auto"></a>
+</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
